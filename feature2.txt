@@ -1,0 +1,1 @@
+This is a new feature added to a file feature2 after cloning the code from the main repo main branch
